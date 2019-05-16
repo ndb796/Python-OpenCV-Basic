@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ebdc87-da65-4f66-b374-54e51ddb26da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_image_threshold/5_image_threshold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_image_transform/3_image_transform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_image_transform/image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_image_combination/3_image_combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_image_combination/4_image_combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_image_combination/image_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/4_image_combination/image_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_image_combination/image_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/4_image_combination/image_2.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,16 +25,16 @@
           <entry key="gitignore" value="1" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="5" />
-          <entry key="py" value="4" />
+          <entry key="png" value="7" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="6" />
+          <entry key="Image" value="8" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -44,14 +42,14 @@
           <entry key="dummy" value="2" />
           <entry key="gitignore" value="10" />
           <entry key="md" value="37" />
-          <entry key="py" value="3621" />
+          <entry key="py" value="4623" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="37" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="3621" />
+          <entry key="Python" value="4623" />
         </counts>
       </usages-collector>
     </session>
@@ -68,13 +66,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_image_basic/result1.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_image_basic/result2.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/4_image_combination/4_image_combination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_image_transform/3_image_transform.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -83,21 +101,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1271">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_image_combination/4_image_combination.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-124">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/3_image_transform/image.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -146,13 +151,15 @@
         <option value="$PROJECT_DIR$/2_image_operation/2_image_operation.py" />
         <option value="$PROJECT_DIR$/3_image_combination/3_image_combination.py" />
         <option value="$PROJECT_DIR$/4_image_threshold/4_image_threshold.py" />
+        <option value="$PROJECT_DIR$/4_image_combination/4_image_combination.py" />
+        <option value="$PROJECT_DIR$/3_image_transform/3_image_transform.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="47" />
-    <option name="width" value="1428" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="147" />
+    <option name="y" value="58" />
+    <option name="width" value="1258" />
     <option name="height" value="957" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -176,6 +183,16 @@
             <path>
               <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
+              <item name="2_image_operation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
+              <item name="3_image_transform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
               <item name="4_image_combination" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,6 +211,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\나동빈\PycharmProjects\opencv-example-1\3_image_transform" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\나동빈\PycharmProjects\opencv-example-1\1_image_basic" />
     </key>
@@ -210,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_image_threshold">
+  <component name="RunManager" selected="Python.3_image_transform">
     <configuration name="1_image_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv-example-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,6 +294,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3_image_transform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv-example-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_image_transform" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_image_transform/3_image_transform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4_image_threshold" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv-example-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,9 +341,11 @@
       <item itemvalue="Python.2_image_operation" />
       <item itemvalue="Python.3_image_combination" />
       <item itemvalue="Python.4_image_threshold" />
+      <item itemvalue="Python.3_image_transform" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_image_transform" />
         <item itemvalue="Python.4_image_threshold" />
         <item itemvalue="Python.3_image_combination" />
         <item itemvalue="Python.2_image_operation" />
@@ -324,19 +367,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="38" width="1142" height="765" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19004525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13284865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.49894068" weight="0.3296355" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49894068" visible="true" weight="0.2155309" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49894068" weight="0.2836767" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5010593" side_tool="true" weight="0.47385103" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32171157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27284947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,9 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_image_basic/1_image_basic.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_image_basic/result1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -384,13 +424,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_image_combination/image_2.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1271">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1_image_basic/1_image_basic.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -408,8 +441,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_image_combination/4_image_combination.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="217">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_image_basic/1_image_basic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_image_transform/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_image_transform/3_image_transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
