@@ -25,7 +25,6 @@ def resize20(image):
 
 def check(test, train, train_labels):
     knn = cv2.ml.KNearest_create()
-
     knn.train(train, cv2.ml.ROW_SAMPLE, train_labels)
     # 가장 가까운 5개의 글자를 찾아, 어떤 숫자에 해당하는지 찾습니다.
     ret, result, neighbours, dist = knn.findNearest(test, k=5)
