@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ebdc87-da65-4f66-b374-54e51ddb26da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_image_operation/2_image_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_image_combination/3_image_combination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,31 +22,32 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+          <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="4" />
-          <entry key="py" value="2" />
+          <entry key="png" value="5" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="4" />
+          <entry key="Image" value="6" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="10" />
           <entry key="md" value="37" />
-          <entry key="py" value="1895" />
+          <entry key="py" value="2293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="37" />
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="1895" />
+          <entry key="Python" value="2293" />
         </counts>
       </usages-collector>
     </session>
@@ -58,15 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
               <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -86,13 +78,32 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="65">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_image_combination/3_image_combination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_image_combination/image_1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_image_combination/image_2.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -132,12 +143,13 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/1_image_basic/1_image_basic.py" />
         <option value="$PROJECT_DIR$/2_image_operation/2_image_operation.py" />
+        <option value="$PROJECT_DIR$/3_image_combination/3_image_combination.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="92" />
+    <option name="x" value="-34" />
+    <option name="y" value="47" />
     <option name="width" value="1227" />
     <option name="height" value="957" />
   </component>
@@ -163,6 +175,11 @@
               <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
               <item name="2_image_operation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
+              <item name="3_image_combination" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_image_operation">
+  <component name="RunManager" selected="Python.3_image_combination">
     <configuration name="1_image_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv-example-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,12 +251,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3_image_combination" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv-example-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_image_combination" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_image_combination/3_image_combination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.1_image_basic" />
       <item itemvalue="Python.2_image_operation" />
+      <item itemvalue="Python.3_image_combination" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_image_combination" />
         <item itemvalue="Python.2_image_operation" />
         <item itemvalue="Python.1_image_basic" />
       </list>
@@ -259,16 +299,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="74" width="981" height="765" extended-state="0" />
+    <frame x="-27" y="38" width="981" height="765" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26165253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.47385103" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" sideWeight="0.49894068" weight="0.3296355" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49894068" weight="0.47385103" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5010593" side_tool="true" weight="0.47385103" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32171157" />
@@ -323,8 +363,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_image_operation/2_image_operation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="65">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_image_combination/image_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_image_combination/image_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_image_combination/3_image_combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
