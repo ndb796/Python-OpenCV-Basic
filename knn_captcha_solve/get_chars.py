@@ -1,4 +1,10 @@
 import time
+import cv2
+import numpy as np
+
+BLUE = 0
+GREEN = 1
+RED = 2
 
 
 # 특정한 색상의 모든 단어가 포함된 이미지를 추출합니다.
@@ -10,12 +16,21 @@ def get_chars(image, color):
     other_2 = (color + 2) % 3
 
     start_time = time.time()
-    # 해당하지 않는 색상의 글자는 모두 검은색으로 바꾸어버립니다.
-    for i in range(0, height):
-        for j in range(0, width):
-            if image[i, j, other_1] == 255:
-                image[i, j] = [0, 0, 0]
+    print(image.sum(axis=2))
 
+    c = image[:, :, other_1] == 255
+    image[c] = [0, 0, 0]
+
+    c = image[:, :, other_2] == 255
+    image[c] = [0, 0, 0]
+
+    c = image[:, :, color] < 170
+    image[c] = [0, 0, 0]
+
+    c = image[:, :, color] != 0
+    image[c] = [255, 255, 255]
+
+    '''
     for i in range(0, height):
         for j in range(0, width):
             if image[i, j, other_2] == 255:
@@ -32,13 +47,17 @@ def get_chars(image, color):
         for j in range(0, width):
             if image[i, j, color] != 0:
                 image[i, j] = [255, 255, 255]
+    '''
     print("--- %s seconds ---" % (time.time() - start_time))
 
     return image
 
 
-image_from_one_color = get_chars(image.copy(), color)
-image_gray = cv2.cvtColor(image_from_one_color, cv2.COLOR_BGR2GRAY)
+image = cv2.imread('image_6.png', cv2.IMREAD_COLOR)
 
-image = cv2.imread(file_name)
-chars = extract_chars(image)
+image_from_one_color = get_chars(image.copy(), BLUE)
+
+# image_gray = cv2.cvtColor(image_from_one_color, cv2.COLOR_BGR2GRAY)
+
+cv2.imshow('Image Gray', image_from_one_color)
+cv2.waitKey(0)
