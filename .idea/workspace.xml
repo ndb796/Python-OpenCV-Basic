@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ebdc87-da65-4f66-b374-54e51ddb26da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/font.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/front.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/gener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knn_captcha_solve/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/get_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/get_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/problem/front.py" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/problem/front.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/1.png" afterDir="false" />
@@ -24,7 +20,25 @@
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/19.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/29.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/38.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn_captcha_solve/target_images/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/knn_captcha_solve/target_images/6.png" afterDir="false" />
@@ -52,33 +66,33 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="jpg" value="6" />
-          <entry key="md" value="1" />
+          <entry key="md" value="3" />
           <entry key="npz" value="9" />
           <entry key="png" value="117" />
-          <entry key="py" value="48" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="123" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="48" />
           <entry key="gitignore" value="10" />
-          <entry key="md" value="37" />
-          <entry key="py" value="14003" />
+          <entry key="md" value="229" />
+          <entry key="py" value="14027" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="37" />
+          <entry key="Markdown" value="229" />
           <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="14003" />
+          <entry key="Python" value="14027" />
         </counts>
       </usages-collector>
     </session>
@@ -98,40 +112,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/image_6.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/knn_captcha_solve/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="158" column="37" lean-forward="true" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
+            <state relative-caret-position="186">
+              <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1558085147381" expanded="true" signature="674:776" ph="..." />
-                <marker date="1558085147381" expanded="true" signature="2705:2774" ph="..." />
-                <marker date="1558085147381" expanded="true" signature="3238:3239" ph="..." />
+                <marker date="1558093251638" expanded="true" signature="674:776" ph="..." />
+                <marker date="1558093251638" expanded="true" signature="2705:2774" ph="..." />
+                <marker date="1558093251638" expanded="true" signature="3238:3239" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#23#42#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/target_images/57.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -149,7 +163,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/knn_captcha_solve/knn_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="157">
               <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="51" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -159,21 +173,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_image_basic/1_image_basic.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_image_basic/1_image_basic.py">
+        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="14" />
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/1/1.png">
+        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/gener.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-750">
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/front.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knn_captcha_solve/target_images/57.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -225,12 +257,14 @@
         <option value="$PROJECT_DIR$/knn_captcha_solve/eval_test.py" />
         <option value="$PROJECT_DIR$/knn_captcha_solve/get_chars.py" />
         <option value="$PROJECT_DIR$/knn_captcha_solve/run.py" />
+        <option value="$PROJECT_DIR$/knn_captcha_solve/README.md" />
+        <option value="$PROJECT_DIR$/knn_captcha_solve/problem/front.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="966" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="537" />
+    <option name="y" value="12" />
     <option name="width" value="1532" />
     <option name="height" value="1028" />
   </component>
@@ -280,7 +314,8 @@
             <path>
               <item name="opencv-example-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv-example-1" type="462c0819:PsiDirectoryNode" />
-              <item name="knn_example" type="462c0819:PsiDirectoryNode" />
+              <item name="knn_captcha_solve" type="462c0819:PsiDirectoryNode" />
+              <item name="problem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,27 +397,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="make_train_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="opencv-example-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knn_captcha_solve" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_captcha_solve/make_train_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="run (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv-example-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,6 +410,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_captcha_solve/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv-example-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knn_captcha_solve/problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_captcha_solve/problem/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -427,18 +462,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.run (2)" />
-      <item itemvalue="Python.make_train_data" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.eval_test" />
       <item itemvalue="Python.get_chars" />
+      <item itemvalue="Python.run" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run (2)" />
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.get_chars" />
         <item itemvalue="Python.eval_test" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.make_train_data" />
       </list>
     </recent_temporary>
   </component>
@@ -456,21 +491,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="390" y="10" width="1225" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20885658" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3270349" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45698926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34302327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39534885" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49894068" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49894068" weight="0.2956989" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010593" side_tool="true" weight="0.47385103" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894068" weight="0.3296355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -482,18 +517,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/6/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/6/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/6/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/5/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/3/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -626,26 +649,6 @@
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/image_6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/make_train_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/knn_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/training_data/1/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -662,26 +665,80 @@
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/target_images/57.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#23#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/gener.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/make_train_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/knn_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/knn_captcha_solve/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="158" column="37" lean-forward="true" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
+        <state relative-caret-position="186">
+          <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1558085147381" expanded="true" signature="674:776" ph="..." />
-            <marker date="1558085147381" expanded="true" signature="2705:2774" ph="..." />
-            <marker date="1558085147381" expanded="true" signature="3238:3239" ph="..." />
+            <marker date="1558093251638" expanded="true" signature="674:776" ph="..." />
+            <marker date="1558093251638" expanded="true" signature="2705:2774" ph="..." />
+            <marker date="1558093251638" expanded="true" signature="3238:3239" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn_captcha_solve/problem/front.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
         </state>
       </provider>
     </entry>

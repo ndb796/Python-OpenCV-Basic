@@ -133,7 +133,7 @@ def get_result(file_name):
 count = 0
 
 with requests.Session() as s:
-    url = "http://3a905668.ngrok.io"
+    url = "http://localhost:10000"
     response = s.post(url + "/start", data=None)
     image_url = url + response.text
     print('Problem ' + str(count) + ': ' + image_url)
